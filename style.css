@@ -7,7 +7,8 @@
 
 body {
     font-family: 'Comic Sans MS', cursive, sans-serif;
-    background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+    background: url('https://i.ytimg.com/vi/vAqvu1l9J8s/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgHSh_MA8=&amp;rs=AOn4CLAmof8oIC5wrjsUH1aqcGDnb4bqPQ') no-repeat center center fixed;
+    background-size: cover;
     color: #333;
     display: flex;
     justify-content: center;
